@@ -33,12 +33,12 @@ The project demonstrates the application of machine learning techniques for drug
 ## Repository Structure
 
 computational-drug-discovery/
-│
-├── data/          # Datasets used for modeling
-├── figures/       # Model evaluation plots and visualizations
-├── notebooks/     # Jupyter notebooks for all workflows
-├── results/       # Generated outputs and prediction results
-└── README.md
+
+ data/          # Datasets used for modeling
+ figures/       # Model evaluation plots and visualizations
+ notebooks/     # Jupyter notebooks for all workflows
+ results/       # Generated outputs and prediction results
+ README.md
 
 
 **Key Workflows**
